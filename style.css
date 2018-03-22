@@ -3,21 +3,25 @@ padding: 0px ;
 margin: 0px ; 
 }
 
+
 div{
     padding: 200px ; 
     border: 1px solid black ; 
+    display: inline-block;
+    
+
 }
 
 .red{
-    background-color: #880000 ; 
+    background-color: #ec2eee ; 
 }
 
 
 .green{
-    background-color: #008800 ; 
+    background-color: #e2efff ; 
 }
 
 
 .blue{
-    background-color: #008 ; 
+    background-color: #f2f2f2 ; 
 }
