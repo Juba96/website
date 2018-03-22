@@ -1,0 +1,23 @@
+*{
+padding: 0px ; 
+margin: 0px ; 
+}
+
+div{
+    padding: 200px ; 
+    border: 1px solid black ; 
+}
+
+.red{
+    background-color: #880000 ; 
+}
+
+
+.green{
+    background-color: #008800 ; 
+}
+
+
+.blue{
+    background-color: #008 ; 
+}
